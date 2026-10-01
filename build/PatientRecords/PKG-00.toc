@@ -1,0 +1,72 @@
+('E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+ 'App\\build\\PatientRecords\\PatientRecords.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\build\\PatientRecords\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form '
+   'App\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('PatientRecordsApp',
+   'E:\\Documents\\Studies\\05- M2 (IATI)\\Form App\\Patient Records '
+   'App\\PatientRecordsApp.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
