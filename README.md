@@ -2,6 +2,9 @@
 
 **A desktop app for collecting and managing COVID-19 vaccination records.**
 
+[![Latest release](https://img.shields.io/github/v/release/djalilhalisse/Patient-Records-App?label=release&color=0d9488)](https://github.com/djalilhalisse/Patient-Records-App/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0d9488)](https://github.com/djalilhalisse/Patient-Records-App/releases/latest)
+
 Patient Records is a Windows desktop application built with **Python, PyQt5 and Fluent Widgets**. It replaces paper forms with a fast, validated data-entry form, a searchable patient table and a dashboard of totals and vaccine breakdowns. It was built for, and is in use at, **EPSP Annaba**.
 
 Records are stored in plain **CSV files**, so the data stays easy to open in Excel and to feed into analysis tools.
